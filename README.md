@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://chat.whatsapp.com/GikyZutq2lc7ajrz5RZtex">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Android+Login+PSTeam+Java"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Android+Login+DarkTeam+Java"
             alt="XyChann`"
         />
     </a>
@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/xychaann/Android-Login-PSTeam-Java"><img src="https://b.top4top.io/p_2348em2pn9.jpg" />
+  <a href="https://github.com/xychaann/Android-Login-PSTeam-Java"><img src="https://j.top4top.io/p_234909cbf9.jpg" />
 </p>
 
 -----
@@ -65,12 +65,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/xychaann/Android-Login-PSTeam-Java"><img src="https://j.top4top.io/p_2348jt1ue9.jpg" />
+  <a href="https://github.com/xychaann/Android-Login-PSTeam-Java"><img src="https://k.top4top.io/p_2349dbhkk9.jpg" />
 </p>
 
 ## Edit File
 ```ts
-> Add Your server in ( main.cpp )
+> Add Your server in ( MainActivity.java )
 
 ```
 ------
