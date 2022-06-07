@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
- <img src="https://github.com/xychaann.png" />
+ <img src="https://github.com/xychaann/xychaann/blob/master/repostastmakefile.jpg" />
 </p>
 
 <p align="center">
