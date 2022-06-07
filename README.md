@@ -27,8 +27,8 @@
   <a href="https://www.facebook.com/ditdit.utina"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   <a href="https://t.me/xychaann"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
   <a href="https://youtube.com/channel/UCsT1hWQcTO4QAvdX0eIhkZg"><img src="https://img.shields.io/badge/YouTube-Xychaann`-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCsT1hWQcTO4QAvdX0eIhkZg" /><br>
-  <a name=ZeeoneOfc&label=VIEWS&style=flat-square&color=orange" />
-  <a href="https://github.com/zeeoneofc"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+  <a name=XyChan`&label=VIEWS&style=flat-square&color=orange" />
+  <a href="https://github.com/xychaann"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://youtube.com/channel/UCsT1hWQcTO4QAvdX0eIhkZg"><img src="https://img.shields.io/youtube/channel/subscribers/UCsT1hWQcTO4QAvdX0eIhkZg?style=social" /> <br>
   <a href="https://komarev.com/ghpvc/?username=xychaann&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=xychaann&color=green&style=flat-square&label=Profile+View"></a>
 </p>
