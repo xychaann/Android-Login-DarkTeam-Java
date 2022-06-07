@@ -35,7 +35,7 @@
 
 ### @thuychaang
 <p align="center">
-  <img src="https://github.com/xychaann/xychaann/blob/master/thuychaang.gif" />
+  <img src="https://github.com/xychaann/Android-Login-DarkTeam-Java/blob/master/Snaptik_7104969681664068891_acdc.mp4" />
 </p>
 
 ### Example Login---|
