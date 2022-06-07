@@ -1,0 +1,34 @@
+{
+  "buildFiles": [
+    "C:\\Users\\samue\\Desktop\\Mods\\projetos\\fix\\Android-Login-Form-Java-2-master\\Android-Login-Form-Java-2-master\\app\\src\\main\\jni\\Android.mk",
+    "C:\\Users\\samue\\Desktop\\Mods\\projetos\\fix\\Android-Login-Form-Java-2-master\\Android-Login-Form-Java-2-master\\app\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\samue\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\samue\\Desktop\\Mods\\projetos\\fix\\Android-Login-Form-Java-2-master\\Android-Login-Form-Java-2-master\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\samue\\Desktop\\Mods\\projetos\\fix\\Android-Login-Form-Java-2-master\\Android-Login-Form-Java-2-master\\app\\src\\main\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-19 NDK_OUT\u003dC:/Users/samue/Desktop/Mods/projetos/fix/Android-Login-Form-Java-2-master/Android-Login-Form-Java-2-master/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\samue\\Desktop\\Mods\\projetos\\fix\\Android-Login-Form-Java-2-master\\Android-Login-Form-Java-2-master\\app\\build\\intermediates\\ndkBuild\\debug\\lib clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\samue\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\samue\\Desktop\\Mods\\projetos\\fix\\Android-Login-Form-Java-2-master\\Android-Login-Form-Java-2-master\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\samue\\Desktop\\Mods\\projetos\\fix\\Android-Login-Form-Java-2-master\\Android-Login-Form-Java-2-master\\app\\src\\main\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-19 NDK_OUT\u003dC:/Users/samue/Desktop/Mods/projetos/fix/Android-Login-Form-Java-2-master/Android-Login-Form-Java-2-master/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\samue\\Desktop\\Mods\\projetos\\fix\\Android-Login-Form-Java-2-master\\Android-Login-Form-Java-2-master\\app\\build\\intermediates\\ndkBuild\\debug\\lib {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "MyLib-debug-armeabi-v7a": {
+      "buildCommand": "C:\\Users\\samue\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\samue\\Desktop\\Mods\\projetos\\fix\\Android-Login-Form-Java-2-master\\Android-Login-Form-Java-2-master\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\samue\\Desktop\\Mods\\projetos\\fix\\Android-Login-Form-Java-2-master\\Android-Login-Form-Java-2-master\\app\\src\\main\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-19 NDK_OUT\u003dC:/Users/samue/Desktop/Mods/projetos/fix/Android-Login-Form-Java-2-master/Android-Login-Form-Java-2-master/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\samue\\Desktop\\Mods\\projetos\\fix\\Android-Login-Form-Java-2-master\\Android-Login-Form-Java-2-master\\app\\build\\intermediates\\ndkBuild\\debug\\lib C:/Users/samue/Desktop/Mods/projetos/fix/Android-Login-Form-Java-2-master/Android-Login-Form-Java-2-master/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libMyLib.so",
+      "toolchain": "toolchain-armeabi-v7a",
+      "abi": "armeabi-v7a",
+      "artifactName": "MyLib",
+      "files": [
+        {
+          "src": "C:\\Users\\samue\\Desktop\\Mods\\projetos\\fix\\Android-Login-Form-Java-2-master\\Android-Login-Form-Java-2-master\\app\\src\\main\\jni\\Main.cpp",
+          "flags": "-target armv7-none-linux-androideabi19 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/Users/samue/AppData/Local/Android/Sdk/ndk/21.0.6113669/build//../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE\u003d2 -fno-exceptions -fno-rtti -fpic -march\u003darmv7-a -O2 -DNDEBUG -IC:/Users/samue/Desktop/Mods/projetos/fix/Android-Login-Form-Java-2-master/Android-Login-Form-Java-2-master/app/src/main/jni -IC:/Users/samue/AppData/Local/Android/Sdk/ndk/21.0.6113669/build//../sources/cxx-stl/llvm-libc++/include -IC:/Users/samue/AppData/Local/Android/Sdk/ndk/21.0.6113669/build//../sources/cxx-stl/llvm-libc++abi/include -IC:/Users/samue/Desktop/Mods/projetos/fix/Android-Login-Form-Java-2-master/Android-Login-Form-Java-2-master/app/src/main/jni -std\u003dc++14 -fno-rtti -fno-exceptions -DNDEBUG -Wall -fpermissive -fpic -DANDROID -Wno-error\u003dformat-security -fpermissive -w -s -Werror -Wold-style-cast -fms-extensions -Wno-narrowing -fno-rtti -fno-exceptions -fvisibility\u003dhidden -ffunction-sections -fdata-sections -stdlib\u003dlibc++ -nostdinc++ -Wformat -Werror\u003dformat-security -fno-strict-aliasing -fvisibility\u003dhidden -ffunction-sections -fdata-sections -w -std\u003dc++14"
+        }
+      ],
+      "output": "C:\\Users\\samue\\Desktop\\Mods\\projetos\\fix\\Android-Login-Form-Java-2-master\\Android-Login-Form-Java-2-master\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a\\libMyLib.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-armeabi-v7a": {
+      "cppCompilerExecutable": "C:\\Users\\samue\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\..\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,2 @@
+[arm64-v8a] Compile++      : MyLib <= Main.cpp
+[arm64-v8a] SharedLibrary  : libMyLib.so

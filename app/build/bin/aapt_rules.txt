@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:51
+-keep class com.xychan.login.FloatingModMenuService { <init>(...); }
+
+# view AndroidManifest.xml #generated:35
+-keep class com.xychan.login.MainActivity { <init>(...); }
+

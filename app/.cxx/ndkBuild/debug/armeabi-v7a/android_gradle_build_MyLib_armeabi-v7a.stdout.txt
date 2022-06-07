@@ -1,0 +1,2 @@
+[armeabi-v7a] Compile++ arm  : MyLib <= Main.cpp
+[armeabi-v7a] SharedLibrary  : libMyLib.so

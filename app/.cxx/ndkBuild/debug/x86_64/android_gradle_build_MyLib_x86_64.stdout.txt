@@ -1,0 +1,2 @@
+[x86_64] Compile++      : MyLib <= Main.cpp
+[x86_64] SharedLibrary  : libMyLib.so
