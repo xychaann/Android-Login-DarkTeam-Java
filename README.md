@@ -38,35 +38,24 @@
   <img src="https://github.com/xychaann/xychaann/blob/master/thuychaang.gif" />
 </p>
 
+------
 ### Example Login---|
 
-<p align="center">
-    <a href="https://chat.whatsapp.com/GikyZutq2lc7ajrz5RZtex">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Example+Login+01"
-            alt="XyChann`"
-        />
-    </a>
-</p>
-
+❏  ```Example Login 01```
 <p align="center">
   <a href="https://github.com/xychaann/Android-Login-PSTeam-Java"><img src="https://j.top4top.io/p_234909cbf9.jpg" />
 </p>
 
------
+------
 
-<p align="center">
-    <a href="https://chat.whatsapp.com/GikyZutq2lc7ajrz5RZtex">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Example+Login+02"
-            alt="XyChann`"
-        />
-    </a>
-</p>
+### Example Login---|
 
+❏  ```Example Login 02```
 <p align="center">
   <a href="https://github.com/xychaann/Android-Login-PSTeam-Java"><img src="https://k.top4top.io/p_2349dbhkk9.jpg" />
 </p>
+
+------
 
 ## Edit File
 ```ts
